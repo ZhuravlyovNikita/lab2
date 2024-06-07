@@ -1,3 +1,19 @@
 .myTitle {
     font-family: "Libre Barcode 128 Text";
 }
+h2 {
+    font-size: 0.8em;
+}
+
+.button {
+	padding: 10px;
+	border-radius: 4px;
+	background-color: orange;
+	color: white;
+	text-decoration: none;
+	transition: background-color 0.3s;
+}
+
+.button:hover {
+	background-color: darkorange;
+}
