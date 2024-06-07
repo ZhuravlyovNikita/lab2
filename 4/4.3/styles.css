@@ -1,0 +1,15 @@
+ul.cola {
+	list-style-type: lower-alpha;
+}
+
+ul.pepsi {
+	list-style-type: square;
+}
+
+ul.health {
+	list-style-type: armenian;
+}
+
+ul.coffee {
+	list-style-type: none;
+}
